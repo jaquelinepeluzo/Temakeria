@@ -1,0 +1,11 @@
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\bin\Debug\Temakeria.exe.config
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\bin\Debug\Temakeria.exe
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\bin\Debug\Temakeria.pdb
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.csprojAssemblyReference.cache
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.Form1.resources
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.Properties.Resources.resources
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.csproj.GenerateResource.cache
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.csproj.CoreCompileInputs.cache
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.exe
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.pdb
+C:\Users\JaquelinePassosFerre\source\repos\Temakeria\Temakeria\obj\Debug\Temakeria.addfuncionario.resources
